@@ -8,3 +8,6 @@ Written entirely in java
 * Google guava
 * VLCj: https://github.com/caprica/vlcj
 * stateful (slightly modified): https://github.com/zevada/stateful
+
+##LICENSE
+GNU GPL 3.0
