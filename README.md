@@ -1,7 +1,7 @@
 # NetTunes
 Media synchronization client/server in java
 
-Provides a client and server that allows remote playback of any media file, and keeps the playback of that media synced for all devices. 
+Provides a client and server that allows remote playback of any media file, and keeps the playback of that media synced for all devices. Intended use case is to sync up two remote stereos on networked pc's to boost the effective volume of a single media track by playing on two stereos at once.
 
 Written entirely in java
 ## Dependencies
